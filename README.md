@@ -1,7 +1,9 @@
-Hotel Review Rating Prediction using Naive Bayes
+##Hotel Review Rating Prediction using Naive Bayes
 
 dataset used - https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews
-Overview
+
+
+#Overview
 
 This project implements a machine learning model to predict hotel ratings based on customer text reviews.
 It uses a Naive Bayes classifier with CountVectorizer to process text data and classify the sentiment or rating level.
